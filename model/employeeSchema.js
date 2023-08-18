@@ -34,10 +34,11 @@ const employeeSchema = new mongoose.Schema({
   },
   empWorkingStatus: {
     type: String,
-    default: "working",
+    default: "bench",
   },
-  empRole: {
+  role: {
     type: String,
+    default: "employee",
   },
   empTechnologies: {
     type: String,

@@ -75,3 +75,193 @@ level : info: Aug-03-2023 18:27:42: 	Employee registered successfully
 level : info: Aug-03-2023 20:18:27: 	Email Send Successfully
 level : info: Aug-03-2023 20:20:19: 	Email Send Successfully
 level : info: Aug-03-2023 20:23:43: 	Email Send Successfully
+level : info: Aug-07-2023 15:38:24: 	Login successfully
+level : info: Aug-07-2023 15:38:32: 	Email Send Successfully
+level : info: Aug-07-2023 15:40:14: 	Email Send Successfully
+level : error: Aug-07-2023 17:04:09: 	authService.isEmployeeExists is not a function
+level : error: Aug-07-2023 17:04:09: 	authService.isEmployeeExists is not a function
+level : error: Aug-07-2023 17:04:32: 	authService.isEmployeeExists is not a function
+level : error: Aug-07-2023 17:04:32: 	authService.isEmployeeExists is not a function
+level : error: Aug-07-2023 17:05:27: 	authService.isEmployeeExists is not a function
+level : error: Aug-07-2023 17:05:27: 	authService.isEmployeeExists is not a function
+level : info: Aug-07-2023 17:07:16: 	Login successfully
+level : info: Aug-07-2023 17:08:02: 	Email Send Successfully
+level : info: Aug-07-2023 17:08:07: 	Email Send Successfully
+level : error: Aug-07-2023 17:19:49: 	authService.isEmployeeExists is not a function
+level : error: Aug-07-2023 17:19:49: 	authService.isEmployeeExists is not a function
+level : info: Aug-07-2023 17:21:17: 	Employee registered successfully
+level : info: Aug-07-2023 17:21:25: 	Login successfully
+level : info: Aug-07-2023 17:21:38: 	Email Send Successfully
+level : info: Aug-07-2023 17:38:25: 	Login successfully
+level : info: Aug-07-2023 23:04:34: 	Email Send Successfully
+level : info: Aug-07-2023 23:06:12: 	Password update successfully
+level : error: Aug-07-2023 23:15:48: 	Employee already registered with this email.
+level : error: Aug-07-2023 23:15:48: 	Employee already registered with this email.
+level : info: Aug-07-2023 23:15:52: 	Employee registered successfully
+level : info: Aug-08-2023 16:27:45: 	Login successfully
+level : info: Aug-08-2023 16:37:31: 	Login successfully
+level : error: Aug-08-2023 23:29:31: 	Employee already registered with this email.
+level : error: Aug-08-2023 23:29:31: 	Employee already registered with this email.
+level : info: Aug-08-2023 23:29:35: 	Employee registered successfully
+level : error: Aug-09-2023 16:02:15: 	data and hash arguments required
+level : error: Aug-09-2023 16:02:15: 	data and hash arguments required
+level : error: Aug-09-2023 16:05:14: 	data and hash arguments required
+level : error: Aug-09-2023 16:05:14: 	data and hash arguments required
+level : error: Aug-09-2023 16:05:21: 	data and hash arguments required
+level : error: Aug-09-2023 16:05:21: 	data and hash arguments required
+level : info: Aug-09-2023 16:07:24: 	Password updated successfully
+level : error: Aug-09-2023 16:07:33: 	Invalid email or password
+level : error: Aug-09-2023 16:07:33: 	Invalid email or password
+level : error: Aug-09-2023 17:04:09: 	Employee already registered with this email.
+level : error: Aug-09-2023 17:04:09: 	Employee already registered with this email.
+level : info: Aug-09-2023 17:04:15: 	Employee registered successfully
+level : error: Aug-09-2023 17:04:39: 	Employee already registered with this email.
+level : error: Aug-09-2023 17:04:39: 	Employee already registered with this email.
+level : info: Aug-09-2023 17:04:48: 	Employee registered successfully
+level : error: Aug-09-2023 17:18:50: 	Employee already registered with this email.
+level : error: Aug-09-2023 17:18:50: 	Employee already registered with this email.
+level : info: Aug-09-2023 17:18:52: 	Employee registered successfully
+level : info: Aug-09-2023 17:23:30: 	Login successfully
+level : error: Aug-09-2023 18:36:14: 	Invalid email and password
+level : error: Aug-09-2023 18:36:14: 	Invalid email and password
+level : info: Aug-09-2023 18:36:36: 	Employee registered successfully
+level : info: Aug-09-2023 18:37:14: 	Login successfully
+level : info: Aug-09-2023 18:37:31: 	Login successfully
+level : info: Aug-09-2023 18:38:52: 	Login successfully
+level : info: Aug-09-2023 18:38:54: 	Login successfully
+level : info: Aug-09-2023 18:38:55: 	Login successfully
+level : error: Aug-09-2023 18:44:08: 	Employee already registered with this email.
+level : error: Aug-09-2023 18:44:08: 	Employee already registered with this email.
+level : info: Aug-09-2023 18:44:12: 	Employee registered successfully
+level : info: Aug-09-2023 18:45:06: 	Login successfully
+level : info: Aug-09-2023 18:47:17: 	Login successfully
+level : info: Aug-09-2023 18:47:22: 	Login successfully
+level : info: Aug-09-2023 19:07:15: 	Login successfully
+level : info: Aug-09-2023 19:07:30: 	Login successfully
+level : info: Aug-09-2023 21:04:40: 	Login successfully
+level : info: Aug-09-2023 21:04:47: 	Login successfully
+level : info: Aug-09-2023 21:05:05: 	Login successfully
+level : info: Aug-09-2023 21:05:08: 	Login successfully
+level : info: Aug-09-2023 21:05:11: 	Login successfully
+level : info: Aug-09-2023 21:05:15: 	Login successfully
+level : info: Aug-09-2023 21:05:26: 	Login successfully
+level : info: Aug-09-2023 21:06:03: 	Login successfully
+level : info: Aug-09-2023 21:06:13: 	Login successfully
+level : info: Aug-09-2023 21:06:14: 	Login successfully
+level : info: Aug-09-2023 21:06:15: 	Login successfully
+level : info: Aug-09-2023 21:10:45: 	Login successfully
+level : info: Aug-09-2023 21:13:57: 	Login successfully
+level : info: Aug-09-2023 21:14:52: 	Login successfully
+level : error: Aug-09-2023 21:15:16: 	Employee already registered with this email.
+level : error: Aug-09-2023 21:15:16: 	Employee already registered with this email.
+level : info: Aug-09-2023 21:15:25: 	Employee registered successfully
+level : info: Aug-09-2023 21:15:45: 	Login successfully
+level : info: Aug-09-2023 21:16:15: 	Login successfully
+level : info: Aug-09-2023 21:23:26: 	Email Send Successfully
+level : error: Aug-09-2023 21:23:39: 	Invalid email or password
+level : error: Aug-09-2023 21:23:39: 	Invalid email or password
+level : info: Aug-09-2023 21:24:46: 	Password update successfully
+level : info: Aug-09-2023 21:44:52: 	Login successfully
+level : info: Aug-09-2023 21:46:39: 	Password updated successfully
+level : error: Aug-09-2023 21:47:36: 	Invalid email or password
+level : error: Aug-09-2023 21:47:36: 	Invalid email or password
+level : error: Aug-09-2023 21:48:23: 	Invalid email or password
+level : error: Aug-09-2023 21:48:23: 	Invalid email or password
+level : info: Aug-09-2023 21:50:47: 	Password update successfully
+level : error: Aug-09-2023 23:48:11: 	Employee already registered with this email.
+level : error: Aug-09-2023 23:48:11: 	Employee already registered with this email.
+level : info: Aug-09-2023 23:48:16: 	Employee registered successfully
+level : info: Aug-09-2023 23:49:55: 	Login successfully
+level : info: Aug-09-2023 23:52:53: 	Login successfully
+level : info: Aug-09-2023 23:53:04: 	Login successfully
+level : info: Aug-09-2023 23:55:22: 	Login successfully
+level : info: Aug-09-2023 23:55:55: 	Login successfully
+level : error: Aug-10-2023 00:22:16: 	Employee already registered with this email.
+level : error: Aug-10-2023 00:22:16: 	Employee already registered with this email.
+level : info: Aug-10-2023 00:22:20: 	Employee registered successfully
+level : info: Aug-10-2023 00:24:06: 	Profile pic and address updated successfully
+level : info: Aug-10-2023 00:25:32: 	Employee registered successfully
+level : info: Aug-10-2023 00:25:45: 	Profile pic and address updated successfully
+level : info: Aug-10-2023 00:26:30: 	Employee registered successfully
+level : info: Aug-10-2023 00:26:40: 	Profile pic and address updated successfully
+level : info: Aug-10-2023 15:26:21: 	Login successfully
+level : info: Aug-10-2023 15:27:07: 	Employee registered successfully
+level : info: Aug-10-2023 15:27:30: 	Login successfully
+level : info: Aug-10-2023 15:29:05: 	Login successfully
+level : info: Aug-10-2023 15:30:47: 	Login successfully
+level : info: Aug-10-2023 15:31:04: 	Login successfully
+level : info: Aug-10-2023 15:32:34: 	Login successfully
+level : error: Aug-10-2023 16:03:49: 	Invalid email and password
+level : error: Aug-10-2023 16:03:49: 	Invalid email and password
+level : info: Aug-10-2023 16:04:16: 	Login successfully
+level : info: Aug-10-2023 16:04:43: 	Employee registered successfully
+level : info: Aug-10-2023 16:04:56: 	Login successfully
+level : info: Aug-10-2023 16:05:03: 	Login successfully
+level : info: Aug-10-2023 16:06:03: 	Login successfully
+level : info: Aug-10-2023 16:08:16: 	Login successfully
+level : info: Aug-10-2023 16:08:52: 	Login successfully
+level : info: Aug-10-2023 16:10:22: 	Login successfully
+level : info: Aug-10-2023 16:10:23: 	Login successfully
+level : info: Aug-10-2023 16:11:34: 	Login successfully
+level : info: Aug-10-2023 16:14:01: 	Login successfully
+level : info: Aug-10-2023 16:14:03: 	Login successfully
+level : info: Aug-10-2023 16:21:23: 	Login successfully
+level : info: Aug-10-2023 16:30:53: 	Login successfully
+level : info: Aug-10-2023 16:31:05: 	Login successfully
+level : error: Aug-10-2023 18:00:29: 	Employee already registered with this email.
+level : error: Aug-10-2023 18:00:29: 	Employee already registered with this email.
+level : info: Aug-10-2023 18:00:37: 	Employee registered successfully
+level : info: Aug-10-2023 18:01:32: 	Login successfully
+level : info: Aug-10-2023 18:01:55: 	Email Send Successfully
+level : info: Aug-10-2023 18:02:01: 	Password update successfully
+level : info: Aug-10-2023 18:02:05: 	Profile pic and address updated successfully
+level : info: Aug-10-2023 18:02:09: 	Password updated successfully
+level : info: Aug-10-2023 18:37:55: 	Login successfully
+level : info: Aug-10-2023 18:42:59: 	Login successfully
+level : info: Aug-10-2023 18:43:13: 	Login successfully
+level : info: Aug-10-2023 18:43:14: 	Login successfully
+level : info: Aug-10-2023 22:05:28: 	Login successfully
+level : error: Aug-10-2023 22:37:20: 	Employee already registered with this email.
+level : error: Aug-10-2023 22:37:20: 	Employee already registered with this email.
+level : info: Aug-10-2023 22:37:23: 	Employee registered successfully
+level : error: Aug-11-2023 15:22:32: 	Employee already registered with this email.
+level : error: Aug-11-2023 15:22:32: 	Employee already registered with this email.
+level : info: Aug-11-2023 15:22:35: 	Employee registered successfully
+level : info: Aug-11-2023 15:24:40: 	Login successfully
+level : info: Aug-11-2023 16:08:11: 	Employee registered successfully
+level : info: Aug-11-2023 16:08:19: 	Login successfully
+level : info: Aug-11-2023 16:08:28: 	Email Send Successfully
+level : info: Aug-11-2023 16:08:31: 	Email Send Successfully
+level : info: Aug-11-2023 16:17:01: 	Login successfully
+level : error: Aug-11-2023 16:57:43: 	Employee already registered with this email.
+level : error: Aug-11-2023 16:57:43: 	Employee already registered with this email.
+level : info: Aug-11-2023 17:00:08: 	Email Send Successfully
+level : info: Aug-11-2023 17:21:50: 	Email Send Successfully
+level : info: Aug-11-2023 17:23:02: 	Email Send Successfully
+level : info: Aug-14-2023 17:15:37: 	Login successfully
+level : info: Aug-14-2023 18:15:56: 	Login successfully
+level : info: Aug-14-2023 18:18:18: 	Login successfully
+level : info: Aug-14-2023 18:18:43: 	Login successfully
+level : info: Aug-14-2023 18:18:44: 	Login successfully
+level : info: Aug-14-2023 18:18:52: 	Login successfully
+level : error: Aug-14-2023 18:20:30: 	Employee already registered with this email.
+level : error: Aug-14-2023 18:20:30: 	Employee already registered with this email.
+level : error: Aug-14-2023 18:20:44: 	Employee already registered with this email.
+level : error: Aug-14-2023 18:20:44: 	Employee already registered with this email.
+level : info: Aug-14-2023 18:20:49: 	Employee registered successfully
+level : info: Aug-14-2023 18:20:53: 	Employee registered successfully
+level : error: Aug-14-2023 18:23:11: 	Employee already registered with this email.
+level : error: Aug-14-2023 18:23:11: 	Employee already registered with this email.
+level : info: Aug-14-2023 18:23:16: 	Employee registered successfully
+level : error: Aug-14-2023 18:23:28: 	Employee already registered with this email.
+level : error: Aug-14-2023 18:23:28: 	Employee already registered with this email.
+level : info: Aug-14-2023 18:25:29: 	Employee registered successfully
+level : info: Aug-14-2023 18:27:26: 	Employee registered successfully
+level : info: Aug-14-2023 18:29:55: 	Employee registered successfully
+level : info: Aug-14-2023 18:32:03: 	Employee registered successfully
+level : info: Aug-14-2023 18:32:45: 	Employee registered successfully
+level : info: Aug-16-2023 15:36:03: 	Login successfully
+level : error: Aug-16-2023 15:40:07: 	Invalid email and password
+level : error: Aug-16-2023 15:40:07: 	Invalid email and password
+level : error: Aug-16-2023 15:41:45: 	Employee already registered with this email.
+level : error: Aug-16-2023 15:41:45: 	Employee already registered with this email.

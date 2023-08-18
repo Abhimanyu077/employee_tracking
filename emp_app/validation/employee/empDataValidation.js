@@ -1,8 +1,8 @@
-const empValSchema = require("./empValSchema");
+const empValSchema = require("../employee/empValSchema");
 
 module.exports = {
   registerEmployeeValidation: async (req, res, next) => {
-    const value = await empValSchema.registerEmployee.validate(req.body, {
+    const value = await empValSchema.registerEmp.validate(req.body, {
       abortEarly: false,
     });
     //when validating with abortEarly set to false, it only returns the first error it will encounter
@@ -18,7 +18,7 @@ module.exports = {
   },
 
   loginEmployeeValidation: async (req, res, next) => {
-    const value = await empValSchema.loginEmployee.validate(req.body, {
+    const value = await empValSchema.loginEmp.validate(req.body, {
       abortEarly: false,
     });
     //when validating with abortEarly set to false, it only returns the first error it will encounter

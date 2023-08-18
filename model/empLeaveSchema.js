@@ -1,36 +1,46 @@
+const { date } = require("joi");
 const mongoose = require("mongoose");
 
 const empLeaveSchema = new mongoose.Schema({
-  empTotalLeave: {
+  totalLeave: {
     type: String,
     require: true,
   },
-  empSickLeave: {
+  sickLeave: {
     type: String,
     default: "10",
   },
-  empCasualLeave: {
+  casualLeave: {
     type: String,
-    default: "casual",
+    default: "10",
   },
-  empLeaveStatus: {
+  leaveStatus: {
     type: String,
+    enum: ["pending", "accepted", "rejected"],
+    default: "pending",
+  },
+  startDate: {
+    type: Date,
     require: true,
   },
-  empLeaveType: {
-    type: String,
+  endDate: {
+    type: Date,
     require: true,
   },
-  empMessage: {
+  leaveType: {
     type: String,
-    default: "0",
+    require: "casual",
+  },
+  message: {
+    type: String,
+    default: "no message",
   },
   isActive: {
     type: Boolean,
     default: true,
   },
   empId: {
-    type: mongoose.Schema.Types.ObjectId,
+    type: mongoose.Types.ObjectId,
     ref: "employee",
     require: true,
   },

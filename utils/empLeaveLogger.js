@@ -2,10 +2,10 @@ const { createLogger, transports, format } = require("winston");
 require("winston-mongodb");
 
 
-const employeeLogger = createLogger({
+const leaveLogger = createLogger({
     transports: [
         new transports.File({
-            filename: 'logs/employeeLogs/employeeLogs.log',
+            filename: 'logs/leaveLogger/leaveLogger.log',
             level: 'info',
             maxsize: 5242880,
             maxFiles: 5,
@@ -14,7 +14,7 @@ const employeeLogger = createLogger({
                 format.printf(info => `level : ${info.level}: ${[info.timestamp]}: ${info.message}`),)
         }),
         new transports.File({
-            filename: 'logs/employeeLogs/employeeLogs.log',
+            filename: 'logs/leaveLogger/leaveLogger.log',
             level: 'error',
             maxsize: 5242880,
             maxFiles: 5,
@@ -24,4 +24,4 @@ const employeeLogger = createLogger({
         }),
     ]
 })
-module.exports = employeeLogger;
+module.exports = leaveLogger;

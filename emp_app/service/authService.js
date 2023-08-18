@@ -1,9 +1,10 @@
-const employeeSchema = require("../model/employeeSchema");
+const employeeSchema = require("../../model/employeeSchema");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 
 module.exports = {
   isEmployee: async (empEmail) => {
+    value = false;
     let isEmployeeExist = await employeeSchema.findOne({
       empEmail: empEmail,
     });
@@ -12,7 +13,7 @@ module.exports = {
     }
   },
 
-  validateEmployee: async (empEmail, empPassword = 0) => {
+    validateEmployee: async (empEmail, empPassword = 0) => {
     let value = false;
     let token = "";
     const empData = await employeeSchema.findOne({

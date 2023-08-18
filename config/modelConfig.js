@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+
 const logger = require("../utils/logger");
 
 // mongoose.connect(process.env.DATABASE || "mongodb+srv://abhimanyusinghrathore27:Abhi123@cluster0.mshgxmh.mongodb.net/employeeTracking", {
